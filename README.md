@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @asundquistdavis!
+- 👀 I’m interested in building APIs and interactive dashboards.
+- 🌱 I’m currently learning how to build interactive websites with the Plotly and d3 libraries in JS.
+- 💞️ I’m looking to collaborate on Python based APIs.
+- 📫 Email: asundquistdavis@gmail.com
